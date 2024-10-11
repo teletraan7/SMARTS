@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 25499cebc3ea168439240f9fb2e805b9
+timeCreated: 1523298792
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Left_Bump
+    100002: Mid_Bump
+    100004: pCube2
+    100006: pCube3
+    100008: pCube4
+    100010: pCube7
+    100012: pCylinder1
+    100014: pCylinder2
+    100016: place3dTexture1
+    100018: place3dTexture2
+    100020: //RootNode
+    100022: Reinforced_Wall
+    100024: Right_Bump
+    100026: transform1
+    100028: transform2
+    100030: transform3
+    100032: transform4
+    100034: Wall_Lining
+    100036: Wood_Panels
+    400000: Left_Bump
+    400002: Mid_Bump
+    400004: pCube2
+    400006: pCube3
+    400008: pCube4
+    400010: pCube7
+    400012: pCylinder1
+    400014: pCylinder2
+    400016: place3dTexture1
+    400018: place3dTexture2
+    400020: //RootNode
+    400022: Reinforced_Wall
+    400024: Right_Bump
+    400026: transform1
+    400028: transform2
+    400030: transform3
+    400032: transform4
+    400034: Wall_Lining
+    400036: Wood_Panels
+    2100000: lambert1
+    2300000: Left_Bump
+    2300002: Mid_Bump
+    2300004: pCube4
+    2300006: pCube7
+    2300008: Reinforced_Wall
+    2300010: Right_Bump
+    2300012: Wall_Lining
+    3300000: Left_Bump
+    3300002: Mid_Bump
+    3300004: pCube4
+    3300006: pCube7
+    3300008: Reinforced_Wall
+    3300010: Right_Bump
+    3300012: Wall_Lining
+    4300000: Wall_Lining
+    4300002: pCube4
+    4300004: pCube7
+    4300006: Reinforced_Wall
+    4300008: Mid_Bump
+    4300010: Left_Bump
+    4300012: Right_Bump
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 90
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

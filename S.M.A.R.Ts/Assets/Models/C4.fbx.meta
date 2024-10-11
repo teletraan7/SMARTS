@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 4435f4d237a27514b86d3f17da1ee190
+timeCreated: 1522444644
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Big_Button
+    100002: Big_Round_Button
+    100004: //RootNode
+    100006: C4
+    100008: Couch:place3dTexture1
+    100010: Couch:place3dTexture2
+    100012: Deployable_Turret_Barrel:place3dTexture1
+    100014: Deployable_Turret_Barrel:place3dTexture2
+    100016: Dispenser_Exit
+    100018: Hover_Swivel_Chair:place3dTexture1
+    100020: Hover_Swivel_Chair:place3dTexture2
+    100022: Hover_Swivel_Chair:Swivel_Chair:place3dTexture1
+    100024: Hover_Swivel_Chair:Swivel_Chair:place3dTexture2
+    100026: Loopy_Couch:place3dTexture1
+    100028: Loopy_Couch:place3dTexture2
+    100030: pCylinder3
+    100032: pCylinder4
+    100034: place3dTexture1
+    100036: place3dTexture2
+    100038: Screen
+    100040: Screen_Bracket
+    100042: Strap_L
+    100044: Strap_R
+    100046: Terminal:place3dTexture1
+    100048: Terminal:place3dTexture2
+    100050: Tiny_Button
+    100052: Tiny_Button_2
+    100054: Tiny_Button_3
+    100056: transform1
+    100058: transform2
+    100060: transform3
+    100062: Vase:place3dTexture1
+    100064: Vase:place3dTexture2
+    400000: Big_Button
+    400002: Big_Round_Button
+    400004: //RootNode
+    400006: C4
+    400008: Couch:place3dTexture1
+    400010: Couch:place3dTexture2
+    400012: Deployable_Turret_Barrel:place3dTexture1
+    400014: Deployable_Turret_Barrel:place3dTexture2
+    400016: Dispenser_Exit
+    400018: Hover_Swivel_Chair:place3dTexture1
+    400020: Hover_Swivel_Chair:place3dTexture2
+    400022: Hover_Swivel_Chair:Swivel_Chair:place3dTexture1
+    400024: Hover_Swivel_Chair:Swivel_Chair:place3dTexture2
+    400026: Loopy_Couch:place3dTexture1
+    400028: Loopy_Couch:place3dTexture2
+    400030: pCylinder3
+    400032: pCylinder4
+    400034: place3dTexture1
+    400036: place3dTexture2
+    400038: Screen
+    400040: Screen_Bracket
+    400042: Strap_L
+    400044: Strap_R
+    400046: Terminal:place3dTexture1
+    400048: Terminal:place3dTexture2
+    400050: Tiny_Button
+    400052: Tiny_Button_2
+    400054: Tiny_Button_3
+    400056: transform1
+    400058: transform2
+    400060: transform3
+    400062: Vase:place3dTexture1
+    400064: Vase:place3dTexture2
+    2100000: lambert1
+    2300000: Big_Button
+    2300002: Big_Round_Button
+    2300004: C4
+    2300006: Screen
+    2300008: Screen_Bracket
+    2300010: Strap_L
+    2300012: Strap_R
+    2300014: Tiny_Button
+    2300016: Tiny_Button_2
+    2300018: Tiny_Button_3
+    3300000: Big_Button
+    3300002: Big_Round_Button
+    3300004: C4
+    3300006: Screen
+    3300008: Screen_Bracket
+    3300010: Strap_L
+    3300012: Strap_R
+    3300014: Tiny_Button
+    3300016: Tiny_Button_2
+    3300018: Tiny_Button_3
+    4300000: C4
+    4300002: Strap_R
+    4300004: Strap_L
+    4300006: Screen_Bracket
+    4300008: Screen
+    4300010: Tiny_Button
+    4300012: Big_Round_Button
+    4300014: Big_Button
+    4300016: Tiny_Button_2
+    4300018: Tiny_Button_3
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a360e4d114574744e96fe3d2ddf7652b
+timeCreated: 1538246896
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shockFx: {instanceID: 0}
+  - Cap: {instanceID: 0}
+  - RobotDisabled: {fileID: 8300000, guid: a83503f39e6da9f45a97f171a8b0dce2, type: 3}
+  - Idle: {fileID: 8300000, guid: 79bd2410ce5a39c45957ead68e8a82bd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

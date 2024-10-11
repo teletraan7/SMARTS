@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 2fa6c9102d7ad714db05e89690ef918f
+timeCreated: 1522247843
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: Antenna_Tip
+    100004: bend1Handle
+    100006: bend1Handle 1
+    100008: bend3Handle
+    100010: bend3Handle 1
+    100012: Bowtie
+    100014: Brain_Box
+    100016: Brain_Box_Topper
+    100018: Couch:place3dTexture1
+    100020: Couch:place3dTexture2
+    100022: Deployable_Turret_Barrel:place3dTexture1
+    100024: Deployable_Turret_Barrel:place3dTexture2
+    100026: //RootNode
+    100028: Drone_Body
+    100030: ElbowR
+    100032: ElbowR 1
+    100034: Eye_Box
+    100036: Eye_Box_Glass
+    100038: FingerR
+    100040: FingerR 1
+    100042: GlassCap
+    100044: Hover_Glowy_Bits
+    100046: Hover_Swivel_Chair:place3dTexture1
+    100048: Hover_Swivel_Chair:place3dTexture2
+    100050: Hover_Swivel_Chair:Swivel_Chair:place3dTexture1
+    100052: Hover_Swivel_Chair:Swivel_Chair:place3dTexture2
+    100054: Loopy_Couch:place3dTexture1
+    100056: Loopy_Couch:place3dTexture2
+    100058: LowerArmR
+    100060: LowerArmR 1
+    100062: place3dTexture1
+    100064: place3dTexture2
+    100066: Robo_Bib
+    100068: Robot_Eye
+    100070: Shoulder_Cuffs
+    100072: Terminal:place3dTexture1
+    100074: Terminal:place3dTexture2
+    100076: ThumbR
+    100078: ThumbR 1
+    100080: UpperArmL
+    100082: UpperArmR
+    100084: Vase:place3dTexture1
+    100086: Vase:place3dTexture2
+    100088: WristR
+    100090: WristR 1
+    400000: Antenna
+    400002: Antenna_Tip
+    400004: bend1Handle
+    400006: bend1Handle 1
+    400008: bend3Handle
+    400010: bend3Handle 1
+    400012: Bowtie
+    400014: Brain_Box
+    400016: Brain_Box_Topper
+    400018: Couch:place3dTexture1
+    400020: Couch:place3dTexture2
+    400022: Deployable_Turret_Barrel:place3dTexture1
+    400024: Deployable_Turret_Barrel:place3dTexture2
+    400026: //RootNode
+    400028: Drone_Body
+    400030: ElbowR
+    400032: ElbowR 1
+    400034: Eye_Box
+    400036: Eye_Box_Glass
+    400038: FingerR
+    400040: FingerR 1
+    400042: GlassCap
+    400044: Hover_Glowy_Bits
+    400046: Hover_Swivel_Chair:place3dTexture1
+    400048: Hover_Swivel_Chair:place3dTexture2
+    400050: Hover_Swivel_Chair:Swivel_Chair:place3dTexture1
+    400052: Hover_Swivel_Chair:Swivel_Chair:place3dTexture2
+    400054: Loopy_Couch:place3dTexture1
+    400056: Loopy_Couch:place3dTexture2
+    400058: LowerArmR
+    400060: LowerArmR 1
+    400062: place3dTexture1
+    400064: place3dTexture2
+    400066: Robo_Bib
+    400068: Robot_Eye
+    400070: Shoulder_Cuffs
+    400072: Terminal:place3dTexture1
+    400074: Terminal:place3dTexture2
+    400076: ThumbR
+    400078: ThumbR 1
+    400080: UpperArmL
+    400082: UpperArmR
+    400084: Vase:place3dTexture1
+    400086: Vase:place3dTexture2
+    400088: WristR
+    400090: WristR 1
+    2100000: lambert1
+    2300000: Antenna
+    2300002: Antenna_Tip
+    2300004: Bowtie
+    2300006: Brain_Box
+    2300008: Brain_Box_Topper
+    2300010: Drone_Body
+    2300012: ElbowR
+    2300014: ElbowR 1
+    2300016: Eye_Box
+    2300018: Eye_Box_Glass
+    2300020: FingerR
+    2300022: FingerR 1
+    2300024: GlassCap
+    2300026: Hover_Glowy_Bits
+    2300028: LowerArmR
+    2300030: LowerArmR 1
+    2300032: Robo_Bib
+    2300034: Robot_Eye
+    2300036: Shoulder_Cuffs
+    2300038: ThumbR
+    2300040: ThumbR 1
+    2300042: UpperArmL
+    2300044: UpperArmR
+    2300046: WristR
+    2300048: WristR 1
+    3300000: Antenna
+    3300002: Antenna_Tip
+    3300004: Bowtie
+    3300006: Brain_Box
+    3300008: Brain_Box_Topper
+    3300010: Drone_Body
+    3300012: ElbowR
+    3300014: ElbowR 1
+    3300016: Eye_Box
+    3300018: Eye_Box_Glass
+    3300020: FingerR
+    3300022: FingerR 1
+    3300024: GlassCap
+    3300026: Hover_Glowy_Bits
+    3300028: LowerArmR
+    3300030: LowerArmR 1
+    3300032: Robo_Bib
+    3300034: Robot_Eye
+    3300036: Shoulder_Cuffs
+    3300038: ThumbR
+    3300040: ThumbR 1
+    3300042: UpperArmL
+    3300044: UpperArmR
+    3300046: WristR
+    3300048: WristR 1
+    4300000: Brain_Box
+    4300002: Antenna
+    4300004: Antenna_Tip
+    4300006: Brain_Box_Topper
+    4300008: Eye_Box
+    4300010: Robot_Eye
+    4300012: Eye_Box_Glass
+    4300014: Drone_Body
+    4300016: Bowtie
+    4300018: Shoulder_Cuffs
+    4300020: Robo_Bib
+    4300022: Hover_Glowy_Bits
+    4300024: GlassCap
+    4300026: UpperArmR
+    4300028: ElbowR
+    4300030: LowerArmR
+    4300032: WristR
+    4300034: ThumbR
+    4300036: FingerR
+    4300038: UpperArmL
+    4300040: ElbowR
+    4300042: LowerArmR
+    4300044: WristR
+    4300046: ThumbR
+    4300048: FingerR
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

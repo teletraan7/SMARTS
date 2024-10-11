@@ -1,0 +1,843 @@
+fileFormatVersion: 2
+guid: ac7a4e97b3bb7924d8e9a9b2141d64e0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BaseBelt:Group1
+    100002: BaseBelt:Group2
+    100004: BaseBelt:Group3
+    100006: BaseBelt:Group4
+    100008: BaseBelt:transform1
+    100010: BaseBelt:transform10
+    100012: BaseBelt:transform11
+    100014: BaseBelt:transform12
+    100016: BaseBelt:transform13
+    100018: BaseBelt:transform14
+    100020: BaseBelt:transform15
+    100022: BaseBelt:transform16
+    100024: BaseBelt:transform17
+    100026: BaseBelt:transform18
+    100028: BaseBelt:transform19
+    100030: BaseBelt:transform2
+    100032: BaseBelt:transform20
+    100034: BaseBelt:transform3
+    100036: BaseBelt:transform4
+    100038: BaseBelt:transform5
+    100040: BaseBelt:transform6
+    100042: BaseBelt:transform7
+    100044: BaseBelt:transform8
+    100046: BaseBelt:transform9
+    100048: BaseBody:Group23671
+    100050: BaseHood:Group64445
+    100052: BaseJumpsuit:Group57495
+    100054: Boots:Group29741
+    100056: pCylinder1
+    100058: pCylinder2
+    100060: pCylinder3
+    100062: pCylinder4
+    100064: pCylinder5
+    100066: polySurface1
+    100068: polySurface10
+    100070: polySurface11
+    100072: polySurface12
+    100074: polySurface13
+    100076: polySurface14
+    100078: polySurface15
+    100080: polySurface16
+    100082: polySurface17
+    100084: polySurface18
+    100086: polySurface19
+    100088: polySurface2
+    100090: polySurface2 1
+    100092: polySurface20
+    100094: polySurface21
+    100096: polySurface22
+    100098: polySurface23
+    100100: polySurface24
+    100102: polySurface3
+    100104: polySurface4
+    100106: polySurface5
+    100108: polySurface6
+    100110: polySurface7
+    100112: polySurface8
+    100114: polySurface9
+    100116: RepairAntenna:Group3895
+    100118: RepairArmBags:Group12629
+    100120: RepairArmBands:Group1
+    100122: RepairArmBands:Group2
+    100124: RepairArmBands:ZBrush_defualt_group
+    100126: RepairArmBands:ZBrush_defualt_group1
+    100128: RepairHarness:Group64676
+    100130: RepairHelmet:Group23426
+    100132: //RootNode
+    100134: RepairShoulderPads:Group6229
+    100136: RepairThighBag:Group30356
+    100138: RepairVisor:Group39994
+    100140: transform1
+    100142: transform10
+    100144: transform11
+    100146: transform12
+    100148: transform13
+    100150: transform14
+    100152: transform15
+    100154: transform16
+    100156: transform17
+    100158: transform18
+    100160: transform19
+    100162: transform2
+    100164: transform20
+    100166: transform21
+    100168: transform22
+    100170: transform23
+    100172: transform24
+    100174: transform25
+    100176: transform26
+    100178: transform27
+    100180: transform28
+    100182: transform3
+    100184: transform4
+    100186: transform5
+    100188: transform6
+    100190: transform7
+    100192: transform8
+    100194: transform9
+    400000: BaseBelt:Group1
+    400002: BaseBelt:Group2
+    400004: BaseBelt:Group3
+    400006: BaseBelt:Group4
+    400008: BaseBelt:transform1
+    400010: BaseBelt:transform10
+    400012: BaseBelt:transform11
+    400014: BaseBelt:transform12
+    400016: BaseBelt:transform13
+    400018: BaseBelt:transform14
+    400020: BaseBelt:transform15
+    400022: BaseBelt:transform16
+    400024: BaseBelt:transform17
+    400026: BaseBelt:transform18
+    400028: BaseBelt:transform19
+    400030: BaseBelt:transform2
+    400032: BaseBelt:transform20
+    400034: BaseBelt:transform3
+    400036: BaseBelt:transform4
+    400038: BaseBelt:transform5
+    400040: BaseBelt:transform6
+    400042: BaseBelt:transform7
+    400044: BaseBelt:transform8
+    400046: BaseBelt:transform9
+    400048: BaseBody:Group23671
+    400050: BaseHood:Group64445
+    400052: BaseJumpsuit:Group57495
+    400054: Boots:Group29741
+    400056: pCylinder1
+    400058: pCylinder2
+    400060: pCylinder3
+    400062: pCylinder4
+    400064: pCylinder5
+    400066: polySurface1
+    400068: polySurface10
+    400070: polySurface11
+    400072: polySurface12
+    400074: polySurface13
+    400076: polySurface14
+    400078: polySurface15
+    400080: polySurface16
+    400082: polySurface17
+    400084: polySurface18
+    400086: polySurface19
+    400088: polySurface2
+    400090: polySurface2 1
+    400092: polySurface20
+    400094: polySurface21
+    400096: polySurface22
+    400098: polySurface23
+    400100: polySurface24
+    400102: polySurface3
+    400104: polySurface4
+    400106: polySurface5
+    400108: polySurface6
+    400110: polySurface7
+    400112: polySurface8
+    400114: polySurface9
+    400116: RepairAntenna:Group3895
+    400118: RepairArmBags:Group12629
+    400120: RepairArmBands:Group1
+    400122: RepairArmBands:Group2
+    400124: RepairArmBands:ZBrush_defualt_group
+    400126: RepairArmBands:ZBrush_defualt_group1
+    400128: RepairHarness:Group64676
+    400130: RepairHelmet:Group23426
+    400132: //RootNode
+    400134: RepairShoulderPads:Group6229
+    400136: RepairThighBag:Group30356
+    400138: RepairVisor:Group39994
+    400140: transform1
+    400142: transform10
+    400144: transform11
+    400146: transform12
+    400148: transform13
+    400150: transform14
+    400152: transform15
+    400154: transform16
+    400156: transform17
+    400158: transform18
+    400160: transform19
+    400162: transform2
+    400164: transform20
+    400166: transform21
+    400168: transform22
+    400170: transform23
+    400172: transform24
+    400174: transform25
+    400176: transform26
+    400178: transform27
+    400180: transform28
+    400182: transform3
+    400184: transform4
+    400186: transform5
+    400188: transform6
+    400190: transform7
+    400192: transform8
+    400194: transform9
+    2100000: TechWhite
+    2100002: SkinCaucasian
+    2100004: EyeBlack
+    2100006: RepairYellow
+    2100008: RepairJetpack
+    2100010: TechVisor1
+    2100012: RepairYellow2
+    2300000: polySurface2
+    3300000: polySurface2
+    4300000: polySurface2
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeBlack
+    second: {fileID: 2100000, guid: 0bc06da607555fb4fa6d650edf09c912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RepairJetpack
+    second: {fileID: 2100000, guid: cc1e7a5036d63f14f99abbc53f865441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RepairYellow
+    second: {fileID: 2100000, guid: d11fe31fea9fa5c46aaf3aab47cade9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RepairYellow2
+    second: {fileID: 2100000, guid: 119df144e955aaf49af08a6790788fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkinCaucasian
+    second: {fileID: 2100000, guid: 2fb7cc47eef808846b91e920d41c0e0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechVisor1
+    second: {fileID: 2100000, guid: 3c46c20525c264844a0121a95579db67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechWhite
+    second: {fileID: 2100000, guid: 4e5ed0f9f6d7d154cb70761cdb9ebe7c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: BaseBelt:Group4
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: transform7
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: transform16
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: RepairModel(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:Group1
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform1
+      parentName: BaseBelt:Group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:Group2
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform2
+      parentName: BaseBelt:Group2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:Group3
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: -1.1356771, z: 0.10259555}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform20
+      parentName: BaseBelt:Group3
+      position: {x: -0, y: 1.1356771, z: -0.10259555}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:Group4
+      parentName: RepairModel(Clone)
+      position: {x: -0.0000015497208, y: 131.6665, z: -15.221829}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 45.64521, y: 45.64521, z: 45.64521}
+    - name: polySurface1
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform27
+      parentName: polySurface1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2 1
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform28
+      parentName: polySurface2 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform26
+      parentName: polySurface3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform25
+      parentName: polySurface4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform14
+      parentName: polySurface5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform15
+      parentName: polySurface6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface7
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform18
+      parentName: polySurface7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface8
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform17
+      parentName: polySurface8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface9
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform16
+      parentName: polySurface9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface10
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform21
+      parentName: polySurface10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform19
+      parentName: polySurface11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface12
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform20
+      parentName: polySurface12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface13
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform24
+      parentName: polySurface13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface14
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform23
+      parentName: polySurface14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface15
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform22
+      parentName: polySurface15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface16
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform7
+      parentName: polySurface16
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface17
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform6
+      parentName: polySurface17
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface18
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform9
+      parentName: polySurface18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface19
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform8
+      parentName: polySurface19
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface20
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform10
+      parentName: polySurface20
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface21
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform12
+      parentName: polySurface21
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface22
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform11
+      parentName: polySurface22
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface23
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform13
+      parentName: polySurface23
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface24
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform5
+      parentName: polySurface24
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform4
+      parentName: BaseBelt:Group4
+      position: {x: 0.0000015497208, y: 0.8211207, z: 0.13745418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBody:Group23671
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform19
+      parentName: BaseBody:Group23671
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseHood:Group64445
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform5
+      parentName: BaseHood:Group64445
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:Group57495
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform3
+      parentName: BaseJumpsuit:Group57495
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Boots:Group29741
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform6
+      parentName: Boots:Group29741
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder1
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: -0.30381534, z: -0.6057739}
+      rotation: {x: -0.066487655, y: 0, z: -0, w: 0.99778724}
+      scale: {x: 0.2961282, y: 0.4992546, z: 0.2961282}
+    - name: transform2
+      parentName: pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder2
+      parentName: RepairModel(Clone)
+      position: {x: 0.6082597, y: -0.55787456, z: -0.4689904}
+      rotation: {x: -0.050306316, y: -0.19601908, z: -0.010069877, w: 0.97925705}
+      scale: {x: 0.09529704, y: 0.09529704, z: 0.09529704}
+    - name: transform1
+      parentName: pCylinder2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder3
+      parentName: RepairModel(Clone)
+      position: {x: -0.59875786, y: -0.5514018, z: -0.5046164}
+      rotation: {x: 0.016182702, y: 0.99593407, z: -0.048685197, w: 0.0740491}
+      scale: {x: 0.09529704, y: 0.09529704, z: 0.09529704}
+    - name: transform3
+      parentName: pCylinder3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder4
+      parentName: RepairModel(Clone)
+      position: {x: 0.0129184965, y: -0.08904991, z: -0.63452303}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform17
+      parentName: pCylinder4
+      position: {x: -0.0129184965, y: 0.08904991, z: 0.63452303}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder5
+      parentName: RepairModel(Clone)
+      position: {x: -0.33429095, y: -1.145319, z: 0.51809007}
+      rotation: {x: 0.04958866, y: -0, z: -0, w: 0.99876976}
+      scale: {x: 0.07069018, y: 0.1764278, z: 0.07069018}
+    - name: BaseBelt:transform15
+      parentName: pCylinder5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2
+      parentName: RepairModel(Clone)
+      position: {x: -0.0000015497208, y: 131.6665, z: -15.221829}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairAntenna:Group3895
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform7
+      parentName: RepairAntenna:Group3895
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairArmBags:Group12629
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform4
+      parentName: RepairArmBags:Group12629
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairArmBands:Group1
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform9
+      parentName: RepairArmBands:Group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairArmBands:Group2
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform11
+      parentName: RepairArmBands:Group2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairArmBands:ZBrush_defualt_group
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform8
+      parentName: RepairArmBands:ZBrush_defualt_group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairArmBands:ZBrush_defualt_group1
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform10
+      parentName: RepairArmBands:ZBrush_defualt_group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairHarness:Group64676
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform12
+      parentName: RepairHarness:Group64676
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairHelmet:Group23426
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform18
+      parentName: RepairHelmet:Group23426
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairShoulderPads:Group6229
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform14
+      parentName: RepairShoulderPads:Group6229
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairThighBag:Group30356
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform13
+      parentName: RepairThighBag:Group30356
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RepairVisor:Group39994
+      parentName: RepairModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform16
+      parentName: RepairVisor:Group39994
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

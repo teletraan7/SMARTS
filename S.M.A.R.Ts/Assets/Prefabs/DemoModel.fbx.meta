@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: b7cd711c29429364c9622ba2c58b92ca
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BaseBelt:transform1
+    100002: BaseBelt:transform2
+    100004: BaseBelt:ZBrush_defualt_group
+    100006: BaseBelt:ZBrush_defualt_group1
+    100008: BaseBelt:ZBrush_defualt_group2
+    100010: BaseBody:Group23671
+    100012: BaseJumpsuit:Group18569
+    100014: BaseJumpsuit:Group57495
+    100016: BaseJumpsuit:Group57496
+    100018: BaseJumpsuit:transform1
+    100020: BaseJumpsuit:transform10
+    100022: BaseJumpsuit:transform11
+    100024: BaseJumpsuit:transform12
+    100026: BaseJumpsuit:transform13
+    100028: BaseJumpsuit:transform14
+    100030: BaseJumpsuit:transform15
+    100032: BaseJumpsuit:transform16
+    100034: BaseJumpsuit:transform17
+    100036: BaseJumpsuit:transform18
+    100038: BaseJumpsuit:transform19
+    100040: BaseJumpsuit:transform2
+    100042: BaseJumpsuit:transform20
+    100044: BaseJumpsuit:transform21
+    100046: BaseJumpsuit:transform3
+    100048: BaseJumpsuit:transform4
+    100050: BaseJumpsuit:transform5
+    100052: BaseJumpsuit:transform6
+    100054: BaseJumpsuit:transform7
+    100056: BaseJumpsuit:transform8
+    100058: BaseJumpsuit:transform9
+    100060: Boots:Group29741
+    100062: DemoBands:Group1
+    100064: DemoBands:Group2
+    100066: DemoBands:Group3
+    100068: DemoBands:transform1
+    100070: DemoBands:transform2
+    100072: DemoBands:transform3
+    100074: DemoBands:transform4
+    100076: DemoBands:ZBrush_defualt_group
+    100078: DemoBands:ZBrush_defualt_group1
+    100080: DemoElbowPads:Group14645
+    100082: DemoHarness:Group1
+    100084: DemoHarness:Group2
+    100086: DemoHarness:transform1
+    100088: DemoHarness:transform2
+    100090: DemoHarness:transform3
+    100092: DemoHarness:transform4
+    100094: DemoHarness:ZBrush_defualt_group
+    100096: DemoHarness:ZBrush_defualt_group1
+    100098: DemoHarness:ZBrush_defualt_group2
+    100100: DemoHelm:Group10
+    100102: DemoHelm:Group11
+    100104: DemoHelm:Group4
+    100106: DemoHelm:Group5
+    100108: DemoHelm:Group8
+    100110: DemoHelm:Group9
+    100112: DemoHelm:transform1
+    100114: DemoHelm:transform2
+    100116: DemoHelm:ZBrush_defualt_group
+    100118: DemoHelm:ZBrush_defualt_group1
+    100120: DemoHelm:ZBrush_defualt_group2
+    100122: DemoJetpack:Group7452
+    100124: DemoKneePads:Group10123
+    100126: //RootNode
+    100128: DemoShoulderPads:Group41251
+    100130: DemoVisor:Group1
+    100132: DemoVisor:Group2
+    100134: DemoVisor:transform1
+    100136: DemoVisor:transform2
+    100138: DemoVisor:ZBrush_defualt_group
+    100140: DemoVisor:ZBrush_defualt_group1
+    100142: DemoVisor:ZBrush_defualt_group2
+    400000: BaseBelt:transform1
+    400002: BaseBelt:transform2
+    400004: BaseBelt:ZBrush_defualt_group
+    400006: BaseBelt:ZBrush_defualt_group1
+    400008: BaseBelt:ZBrush_defualt_group2
+    400010: BaseBody:Group23671
+    400012: BaseJumpsuit:Group18569
+    400014: BaseJumpsuit:Group57495
+    400016: BaseJumpsuit:Group57496
+    400018: BaseJumpsuit:transform1
+    400020: BaseJumpsuit:transform10
+    400022: BaseJumpsuit:transform11
+    400024: BaseJumpsuit:transform12
+    400026: BaseJumpsuit:transform13
+    400028: BaseJumpsuit:transform14
+    400030: BaseJumpsuit:transform15
+    400032: BaseJumpsuit:transform16
+    400034: BaseJumpsuit:transform17
+    400036: BaseJumpsuit:transform18
+    400038: BaseJumpsuit:transform19
+    400040: BaseJumpsuit:transform2
+    400042: BaseJumpsuit:transform20
+    400044: BaseJumpsuit:transform21
+    400046: BaseJumpsuit:transform3
+    400048: BaseJumpsuit:transform4
+    400050: BaseJumpsuit:transform5
+    400052: BaseJumpsuit:transform6
+    400054: BaseJumpsuit:transform7
+    400056: BaseJumpsuit:transform8
+    400058: BaseJumpsuit:transform9
+    400060: Boots:Group29741
+    400062: DemoBands:Group1
+    400064: DemoBands:Group2
+    400066: DemoBands:Group3
+    400068: DemoBands:transform1
+    400070: DemoBands:transform2
+    400072: DemoBands:transform3
+    400074: DemoBands:transform4
+    400076: DemoBands:ZBrush_defualt_group
+    400078: DemoBands:ZBrush_defualt_group1
+    400080: DemoElbowPads:Group14645
+    400082: DemoHarness:Group1
+    400084: DemoHarness:Group2
+    400086: DemoHarness:transform1
+    400088: DemoHarness:transform2
+    400090: DemoHarness:transform3
+    400092: DemoHarness:transform4
+    400094: DemoHarness:ZBrush_defualt_group
+    400096: DemoHarness:ZBrush_defualt_group1
+    400098: DemoHarness:ZBrush_defualt_group2
+    400100: DemoHelm:Group10
+    400102: DemoHelm:Group11
+    400104: DemoHelm:Group4
+    400106: DemoHelm:Group5
+    400108: DemoHelm:Group8
+    400110: DemoHelm:Group9
+    400112: DemoHelm:transform1
+    400114: DemoHelm:transform2
+    400116: DemoHelm:ZBrush_defualt_group
+    400118: DemoHelm:ZBrush_defualt_group1
+    400120: DemoHelm:ZBrush_defualt_group2
+    400122: DemoJetpack:Group7452
+    400124: DemoKneePads:Group10123
+    400126: //RootNode
+    400128: DemoShoulderPads:Group41251
+    400130: DemoVisor:Group1
+    400132: DemoVisor:Group2
+    400134: DemoVisor:transform1
+    400136: DemoVisor:transform2
+    400138: DemoVisor:ZBrush_defualt_group
+    400140: DemoVisor:ZBrush_defualt_group1
+    400142: DemoVisor:ZBrush_defualt_group2
+    2100000: lambert1
+    2100002: DemoRed
+    2100004: TechGrey
+    2100006: DemoHelm1
+    2100008: TechWhite
+    2100010: TechVisor1
+    2100012: SkinCaucasian
+    2100014: EyeBlack
+    2300000: BaseJumpsuit:Group57496
+    3300000: BaseJumpsuit:Group57496
+    4300000: BaseJumpsuit:Group57496
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DemoHelm1
+    second: {fileID: 2100000, guid: e15a9627d4a12eb4aa326623f14a9632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DemoRed
+    second: {fileID: 2100000, guid: 9e612ab39387c6242bd8d829915d94e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeBlack
+    second: {fileID: 2100000, guid: af589a9265f875445817480dbab5dfe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkinCaucasian
+    second: {fileID: 2100000, guid: 60f9de27529f034459a20bf0388f3b5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechGrey
+    second: {fileID: 2100000, guid: 323a12d03c0f40b45a538973387bcbe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechVisor1
+    second: {fileID: 2100000, guid: 93aa52889a6bcd54a8baa924f07b9bce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechWhite
+    second: {fileID: 2100000, guid: c0b1837d56ad9994cab5f44c5df3fd44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 376b523dcbf484d4e95dad52149670a9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: DemoHarness:ZBrush_defualt_group2
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BaseJumpsuit:transform14
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: DemoModel(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:ZBrush_defualt_group
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform1
+      parentName: BaseBelt:ZBrush_defualt_group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:ZBrush_defualt_group1
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:transform2
+      parentName: BaseBelt:ZBrush_defualt_group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBelt:ZBrush_defualt_group2
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.41901705, z: 0.0030835862}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform1
+      parentName: BaseBelt:ZBrush_defualt_group2
+      position: {x: -0, y: 0.034087844, z: -0.0030835862}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseBody:Group23671
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform2
+      parentName: BaseBody:Group23671
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:Group18569
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform21
+      parentName: BaseJumpsuit:Group18569
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:Group57495
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform20
+      parentName: BaseJumpsuit:Group57495
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:Group57496
+      parentName: DemoModel(Clone)
+      position: {x: -0.00000004649162, y: 1.817633, z: -0.08566156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 21.101793, y: 21.101793, z: 21.101793}
+    - name: Boots:Group29741
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform15
+      parentName: Boots:Group29741
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoBands:Group1
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoBands:transform1
+      parentName: DemoBands:Group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoBands:Group2
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoBands:transform4
+      parentName: DemoBands:Group2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoBands:Group3
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.43915638, z: 0.0016739662}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform10
+      parentName: DemoBands:Group3
+      position: {x: -0, y: 0.013948565, z: -0.0016739662}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoBands:ZBrush_defualt_group
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoBands:transform2
+      parentName: DemoBands:ZBrush_defualt_group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoBands:ZBrush_defualt_group1
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoBands:transform3
+      parentName: DemoBands:ZBrush_defualt_group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoElbowPads:Group14645
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform18
+      parentName: DemoElbowPads:Group14645
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHarness:Group1
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHarness:transform2
+      parentName: DemoHarness:Group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHarness:Group2
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHarness:transform1
+      parentName: DemoHarness:Group2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHarness:ZBrush_defualt_group
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHarness:transform3
+      parentName: DemoHarness:ZBrush_defualt_group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHarness:ZBrush_defualt_group1
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHarness:transform4
+      parentName: DemoHarness:ZBrush_defualt_group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHarness:ZBrush_defualt_group2
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.44372326, z: 0.0022774828}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform14
+      parentName: DemoHarness:ZBrush_defualt_group2
+      position: {x: -0, y: 0.009381691, z: -0.0022774828}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:Group4
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform4
+      parentName: DemoHelm:Group4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:Group5
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform3
+      parentName: DemoHelm:Group5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:Group8
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform7
+      parentName: DemoHelm:Group8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:Group9
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform8
+      parentName: DemoHelm:Group9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:Group10
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform5
+      parentName: DemoHelm:Group10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:Group11
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform6
+      parentName: DemoHelm:Group11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:ZBrush_defualt_group
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:transform1
+      parentName: DemoHelm:ZBrush_defualt_group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:ZBrush_defualt_group1
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:transform2
+      parentName: DemoHelm:ZBrush_defualt_group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoHelm:ZBrush_defualt_group2
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4783903, z: 0.0021611014}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform13
+      parentName: DemoHelm:ZBrush_defualt_group2
+      position: {x: -0, y: -0.025285367, z: -0.0021611014}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoJetpack:Group7452
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform19
+      parentName: DemoJetpack:Group7452
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoKneePads:Group10123
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform17
+      parentName: DemoKneePads:Group10123
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoShoulderPads:Group41251
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform16
+      parentName: DemoShoulderPads:Group41251
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoVisor:Group1
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform9
+      parentName: DemoVisor:Group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoVisor:Group2
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0.4531049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform11
+      parentName: DemoVisor:Group2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoVisor:ZBrush_defualt_group
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoVisor:transform2
+      parentName: DemoVisor:ZBrush_defualt_group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoVisor:ZBrush_defualt_group1
+      parentName: DemoModel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoVisor:transform1
+      parentName: DemoVisor:ZBrush_defualt_group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DemoVisor:ZBrush_defualt_group2
+      parentName: DemoModel(Clone)
+      position: {x: -0.0000000022351743, y: 0.49654528, z: 0.009173511}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseJumpsuit:transform12
+      parentName: DemoVisor:ZBrush_defualt_group2
+      position: {x: 0.0000000022351743, y: -0.043440383, z: -0.009173511}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

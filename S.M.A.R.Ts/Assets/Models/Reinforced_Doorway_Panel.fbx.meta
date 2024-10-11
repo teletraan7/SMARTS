@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 30524f5acd317104997b0b8846118134
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Left_Bump
+    100002: pCube10
+    100004: pCube11
+    100006: pCube2
+    100008: pCube3
+    100010: pCube4
+    100012: pCube5
+    100014: pCube6
+    100016: pCube8
+    100018: pCylinder1
+    100020: pCylinder2
+    100022: pCylinder3
+    100024: pCylinder4
+    100026: pCylinder5
+    100028: pCylinder6
+    100030: pCylinder7
+    100032: pCylinder8
+    100034: pCylinder9
+    100036: place3dTexture1
+    100038: place3dTexture2
+    100040: Reinforced_Doorway
+    100042: //RootNode
+    100044: Reinforced_Doorway_Wall
+    100046: Reinforced_Plastic_Wall_Panel:pCube2
+    100048: Reinforced_Plastic_Wall_Panel:pCube3
+    100050: Reinforced_Plastic_Wall_Panel:pCylinder1
+    100052: Reinforced_Plastic_Wall_Panel:pCylinder2
+    100054: Reinforced_Plastic_Wall_Panel:place3dTexture1
+    100056: Reinforced_Plastic_Wall_Panel:place3dTexture2
+    100058: Reinforced_Plastic_Wall_Panel:transform1
+    100060: Reinforced_Plastic_Wall_Panel:transform2
+    100062: Reinforced_Plastic_Wall_Panel:transform3
+    100064: Reinforced_Plastic_Wall_Panel:transform4
+    100066: Reinforced_Plastic_Wall_Panel:Wood_Panels
+    100068: Right_Bump
+    100070: transform1
+    100072: transform10
+    100074: transform11
+    100076: transform12
+    100078: transform13
+    100080: transform14
+    100082: transform15
+    100084: transform16
+    100086: transform2
+    100088: transform3
+    100090: transform4
+    100092: transform5
+    100094: transform6
+    100096: transform7
+    100098: transform8
+    100100: transform9
+    100102: Wall_Frame
+    100104: Wall_Lining
+    100106: Wood_Panels
+    400000: Left_Bump
+    400002: pCube10
+    400004: pCube11
+    400006: pCube2
+    400008: pCube3
+    400010: pCube4
+    400012: pCube5
+    400014: pCube6
+    400016: pCube8
+    400018: pCylinder1
+    400020: pCylinder2
+    400022: pCylinder3
+    400024: pCylinder4
+    400026: pCylinder5
+    400028: pCylinder6
+    400030: pCylinder7
+    400032: pCylinder8
+    400034: pCylinder9
+    400036: place3dTexture1
+    400038: place3dTexture2
+    400040: Reinforced_Doorway
+    400042: //RootNode
+    400044: Reinforced_Doorway_Wall
+    400046: Reinforced_Plastic_Wall_Panel:pCube2
+    400048: Reinforced_Plastic_Wall_Panel:pCube3
+    400050: Reinforced_Plastic_Wall_Panel:pCylinder1
+    400052: Reinforced_Plastic_Wall_Panel:pCylinder2
+    400054: Reinforced_Plastic_Wall_Panel:place3dTexture1
+    400056: Reinforced_Plastic_Wall_Panel:place3dTexture2
+    400058: Reinforced_Plastic_Wall_Panel:transform1
+    400060: Reinforced_Plastic_Wall_Panel:transform2
+    400062: Reinforced_Plastic_Wall_Panel:transform3
+    400064: Reinforced_Plastic_Wall_Panel:transform4
+    400066: Reinforced_Plastic_Wall_Panel:Wood_Panels
+    400068: Right_Bump
+    400070: transform1
+    400072: transform10
+    400074: transform11
+    400076: transform12
+    400078: transform13
+    400080: transform14
+    400082: transform15
+    400084: transform16
+    400086: transform2
+    400088: transform3
+    400090: transform4
+    400092: transform5
+    400094: transform6
+    400096: transform7
+    400098: transform8
+    400100: transform9
+    400102: Wall_Frame
+    400104: Wall_Lining
+    400106: Wood_Panels
+    2100000: lambert1
+    2300000: Left_Bump
+    2300002: pCube10
+    2300004: pCube11
+    2300006: Reinforced_Doorway
+    2300008: Reinforced_Doorway_Wall
+    2300010: Right_Bump
+    2300012: Wall_Frame
+    3300000: Left_Bump
+    3300002: pCube10
+    3300004: pCube11
+    3300006: Reinforced_Doorway
+    3300008: Reinforced_Doorway_Wall
+    3300010: Right_Bump
+    3300012: Wall_Frame
+    4300000: Wall_Frame
+    4300002: Reinforced_Doorway_Wall
+    4300004: pCube10
+    4300006: pCube11
+    4300008: Reinforced_Doorway
+    4300010: Left_Bump
+    4300012: Right_Bump
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 90
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

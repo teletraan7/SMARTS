@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: e60e0c030e0663a4db58fa5a49d29173
+timeCreated: 1519570638
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BaseBelt1:transform1
+    100002: BaseBelt1:transform2
+    100004: BaseBelt1:ZBrush_defualt_group
+    100006: BaseBelt1:ZBrush_defualt_group1
+    100008: BaseBelt1:ZBrush_defualt_group2
+    100010: BaseBody:Group23671
+    100012: BaseHood:Group64445
+    100014: BaseJumpsuit:Group18569
+    100016: BaseJumpsuit:Group57495
+    100018: Boots:Group29741
+    100020: polySurface33
+    100022: polySurface33 1
+    100024: polySurface34
+    100026: polySurface35
+    100028: polySurface36
+    100030: polySurface37
+    100032: polySurface38
+    100034: pTorus1
+    100036: pTorus2
+    100038: pTorus3
+    100040: pTorus4
+    100042: TechAntennae:Group1
+    100044: TechAntennae:Group2
+    100046: TechAntennae:Group3
+    100048: TechAntennae:transform1
+    100050: TechAntennae:transform2
+    100052: TechAntennae:ZBrush_defualt_group
+    100054: TechAntennae:ZBrush_defualt_group1
+    100056: TechBands:Group1
+    100058: TechBands:Group2
+    100060: TechBands:Group3
+    100062: TechBands:Group4
+    100064: TechBands:Group5
+    100066: TechBands:Group6
+    100068: TechBands:Group7
+    100070: TechBands:Group8
+    100072: TechBands:ZBrush_defualt_group
+    100074: TechBands:ZBrush_defualt_group1
+    100076: TechHarness1:Group1
+    100078: TechHarness1:transform1
+    100080: TechHarness1:transform2
+    100082: TechHarness1:ZBrush_defualt_group
+    100084: TechHarness1:ZBrush_defualt_group1
+    100086: TechHarness1:ZBrush_defualt_group2
+    100088: techHarnessPanel:Group1
+    100090: techHarnessPanel:ZBrush_defualt_group
+    100092: TechHelm:Group64498
+    100094: TechJetpack:Group16835
+    100096: //RootNode
+    100098: TechTalkie:Group15444
+    100100: TechVisor:Group1
+    100102: TechVisor:Group2
+    100104: TechVisor:Group3
+    100106: TechVisor:transform1
+    100108: TechVisor:transform10
+    100110: TechVisor:transform11
+    100112: TechVisor:transform12
+    100114: TechVisor:transform13
+    100116: TechVisor:transform14
+    100118: TechVisor:transform15
+    100120: TechVisor:transform16
+    100122: TechVisor:transform17
+    100124: TechVisor:transform18
+    100126: TechVisor:transform19
+    100128: TechVisor:transform2
+    100130: TechVisor:transform20
+    100132: TechVisor:transform21
+    100134: TechVisor:transform22
+    100136: TechVisor:transform23
+    100138: TechVisor:transform24
+    100140: TechVisor:transform25
+    100142: TechVisor:transform26
+    100144: TechVisor:transform27
+    100146: TechVisor:transform28
+    100148: TechVisor:transform29
+    100150: TechVisor:transform3
+    100152: TechVisor:transform30
+    100154: TechVisor:transform4
+    100156: TechVisor:transform5
+    100158: TechVisor:transform6
+    100160: TechVisor:transform7
+    100162: TechVisor:transform8
+    100164: TechVisor:transform9
+    100166: TechVisor:ZBrush_defualt_group
+    100168: TechVisor:ZBrush_defualt_group1
+    100170: TechVisor:ZBrush_defualt_group2
+    100172: transform48
+    100174: transform49
+    100176: transform50
+    100178: transform51
+    100180: transform52
+    100182: transform53
+    100184: transform54
+    100186: transform55
+    100188: transform56
+    100190: transform57
+    100192: transform58
+    100194: transform59
+    400000: BaseBelt1:transform1
+    400002: BaseBelt1:transform2
+    400004: BaseBelt1:ZBrush_defualt_group
+    400006: BaseBelt1:ZBrush_defualt_group1
+    400008: BaseBelt1:ZBrush_defualt_group2
+    400010: BaseBody:Group23671
+    400012: BaseHood:Group64445
+    400014: BaseJumpsuit:Group18569
+    400016: BaseJumpsuit:Group57495
+    400018: Boots:Group29741
+    400020: polySurface33
+    400022: polySurface33 1
+    400024: polySurface34
+    400026: polySurface35
+    400028: polySurface36
+    400030: polySurface37
+    400032: polySurface38
+    400034: pTorus1
+    400036: pTorus2
+    400038: pTorus3
+    400040: pTorus4
+    400042: TechAntennae:Group1
+    400044: TechAntennae:Group2
+    400046: TechAntennae:Group3
+    400048: TechAntennae:transform1
+    400050: TechAntennae:transform2
+    400052: TechAntennae:ZBrush_defualt_group
+    400054: TechAntennae:ZBrush_defualt_group1
+    400056: TechBands:Group1
+    400058: TechBands:Group2
+    400060: TechBands:Group3
+    400062: TechBands:Group4
+    400064: TechBands:Group5
+    400066: TechBands:Group6
+    400068: TechBands:Group7
+    400070: TechBands:Group8
+    400072: TechBands:ZBrush_defualt_group
+    400074: TechBands:ZBrush_defualt_group1
+    400076: TechHarness1:Group1
+    400078: TechHarness1:transform1
+    400080: TechHarness1:transform2
+    400082: TechHarness1:ZBrush_defualt_group
+    400084: TechHarness1:ZBrush_defualt_group1
+    400086: TechHarness1:ZBrush_defualt_group2
+    400088: techHarnessPanel:Group1
+    400090: techHarnessPanel:ZBrush_defualt_group
+    400092: TechHelm:Group64498
+    400094: TechJetpack:Group16835
+    400096: //RootNode
+    400098: TechTalkie:Group15444
+    400100: TechVisor:Group1
+    400102: TechVisor:Group2
+    400104: TechVisor:Group3
+    400106: TechVisor:transform1
+    400108: TechVisor:transform10
+    400110: TechVisor:transform11
+    400112: TechVisor:transform12
+    400114: TechVisor:transform13
+    400116: TechVisor:transform14
+    400118: TechVisor:transform15
+    400120: TechVisor:transform16
+    400122: TechVisor:transform17
+    400124: TechVisor:transform18
+    400126: TechVisor:transform19
+    400128: TechVisor:transform2
+    400130: TechVisor:transform20
+    400132: TechVisor:transform21
+    400134: TechVisor:transform22
+    400136: TechVisor:transform23
+    400138: TechVisor:transform24
+    400140: TechVisor:transform25
+    400142: TechVisor:transform26
+    400144: TechVisor:transform27
+    400146: TechVisor:transform28
+    400148: TechVisor:transform29
+    400150: TechVisor:transform3
+    400152: TechVisor:transform30
+    400154: TechVisor:transform4
+    400156: TechVisor:transform5
+    400158: TechVisor:transform6
+    400160: TechVisor:transform7
+    400162: TechVisor:transform8
+    400164: TechVisor:transform9
+    400166: TechVisor:ZBrush_defualt_group
+    400168: TechVisor:ZBrush_defualt_group1
+    400170: TechVisor:ZBrush_defualt_group2
+    400172: transform48
+    400174: transform49
+    400176: transform50
+    400178: transform51
+    400180: transform52
+    400182: transform53
+    400184: transform54
+    400186: transform55
+    400188: transform56
+    400190: transform57
+    400192: transform58
+    400194: transform59
+    2100000: lambert1
+    2100002: TechJumpsuit
+    2100004: TechGrey
+    2100006: SkinCaucasian
+    2100008: EyeBlack
+    2100010: TechWhite
+    2100012: TechRed
+    2100014: TechVisor1
+    2300000: TechVisor:Group3
+    3300000: TechVisor:Group3
+    4300000: TechVisor:Group3
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeBlack
+    second: {fileID: 2100000, guid: c5c9bf2298a72da4cb730cc7f41ee268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkinCaucasian
+    second: {fileID: 2100000, guid: 68a7c11b8071dbe4da7995d3804a106f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechGrey
+    second: {fileID: 2100000, guid: f3b853b50a0510e4e86de503ac1f0181, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechJumpsuit
+    second: {fileID: 2100000, guid: 06d66a9416f5db140bf33e65503da614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechRed
+    second: {fileID: 2100000, guid: c00fb6a1f479e0c4d8c1b759e176dc2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechVisor1
+    second: {fileID: 2100000, guid: 776d30fc0d885ad48ae090a5582bdedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TechWhite
+    second: {fileID: 2100000, guid: 22100729516bbd24895a456d31ee1436, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: f3b5e1ab98fb9594da24ba99ce0bb75d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

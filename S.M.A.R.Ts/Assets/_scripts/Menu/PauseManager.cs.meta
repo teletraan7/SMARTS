@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64a207dca83a6a949b6d844056bfbabb
+timeCreated: 1533416883
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PauseMenu: {instanceID: 0}
+  - ToggleOn: {fileID: 8300000, guid: 8c6d2907839a5704382f245f7af3ca31, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

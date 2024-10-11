@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: d75d9aef12e3c5c4c8fc624be84b27cb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: Antenna_Tip
+    100004: bend1Handle
+    100006: bend1Handle 1
+    100008: bend3Handle
+    100010: bend3Handle 1
+    100012: Bowtie
+    100014: Brain_Box
+    100016: Brain_Box_Topper
+    100018: Couch:place3dTexture1
+    100020: Couch:place3dTexture2
+    100022: Deployable_Turret_Barrel:place3dTexture1
+    100024: Deployable_Turret_Barrel:place3dTexture2
+    100026: //RootNode
+    100028: Drone_Body
+    100030: ElbowR
+    100032: ElbowR 1
+    100034: Eye_Box
+    100036: Eye_Box_Glass
+    100038: FingerR
+    100040: FingerR 1
+    100042: GlassCap
+    100044: Hover_Glowy_Bits
+    100046: Hover_Swivel_Chair:place3dTexture1
+    100048: Hover_Swivel_Chair:place3dTexture2
+    100050: Hover_Swivel_Chair:Swivel_Chair:place3dTexture1
+    100052: Hover_Swivel_Chair:Swivel_Chair:place3dTexture2
+    100054: Loopy_Couch:place3dTexture1
+    100056: Loopy_Couch:place3dTexture2
+    100058: LowerArmR
+    100060: LowerArmR 1
+    100062: place3dTexture1
+    100064: place3dTexture2
+    100066: Robo_Bib
+    100068: Robot_Eye
+    100070: Shoulder_Cuffs
+    100072: Terminal:place3dTexture1
+    100074: Terminal:place3dTexture2
+    100076: ThumbR
+    100078: ThumbR 1
+    100080: UpperArmL
+    100082: UpperArmR
+    100084: Vase:place3dTexture1
+    100086: Vase:place3dTexture2
+    100088: WristR
+    100090: WristR 1
+    400000: Antenna
+    400002: Antenna_Tip
+    400004: bend1Handle
+    400006: bend1Handle 1
+    400008: bend3Handle
+    400010: bend3Handle 1
+    400012: Bowtie
+    400014: Brain_Box
+    400016: Brain_Box_Topper
+    400018: Couch:place3dTexture1
+    400020: Couch:place3dTexture2
+    400022: Deployable_Turret_Barrel:place3dTexture1
+    400024: Deployable_Turret_Barrel:place3dTexture2
+    400026: //RootNode
+    400028: Drone_Body
+    400030: ElbowR
+    400032: ElbowR 1
+    400034: Eye_Box
+    400036: Eye_Box_Glass
+    400038: FingerR
+    400040: FingerR 1
+    400042: GlassCap
+    400044: Hover_Glowy_Bits
+    400046: Hover_Swivel_Chair:place3dTexture1
+    400048: Hover_Swivel_Chair:place3dTexture2
+    400050: Hover_Swivel_Chair:Swivel_Chair:place3dTexture1
+    400052: Hover_Swivel_Chair:Swivel_Chair:place3dTexture2
+    400054: Loopy_Couch:place3dTexture1
+    400056: Loopy_Couch:place3dTexture2
+    400058: LowerArmR
+    400060: LowerArmR 1
+    400062: place3dTexture1
+    400064: place3dTexture2
+    400066: Robo_Bib
+    400068: Robot_Eye
+    400070: Shoulder_Cuffs
+    400072: Terminal:place3dTexture1
+    400074: Terminal:place3dTexture2
+    400076: ThumbR
+    400078: ThumbR 1
+    400080: UpperArmL
+    400082: UpperArmR
+    400084: Vase:place3dTexture1
+    400086: Vase:place3dTexture2
+    400088: WristR
+    400090: WristR 1
+    2100000: lambert1
+    2300000: Antenna
+    2300002: Antenna_Tip
+    2300004: Bowtie
+    2300006: Brain_Box
+    2300008: Brain_Box_Topper
+    2300010: Drone_Body
+    2300012: ElbowR
+    2300014: ElbowR 1
+    2300016: Eye_Box
+    2300018: Eye_Box_Glass
+    2300020: FingerR
+    2300022: FingerR 1
+    2300024: GlassCap
+    2300026: Hover_Glowy_Bits
+    2300028: LowerArmR
+    2300030: LowerArmR 1
+    2300032: Robo_Bib
+    2300034: Robot_Eye
+    2300036: Shoulder_Cuffs
+    2300038: ThumbR
+    2300040: ThumbR 1
+    2300042: UpperArmL
+    2300044: UpperArmR
+    2300046: WristR
+    2300048: WristR 1
+    3300000: Antenna
+    3300002: Antenna_Tip
+    3300004: Bowtie
+    3300006: Brain_Box
+    3300008: Brain_Box_Topper
+    3300010: Drone_Body
+    3300012: ElbowR
+    3300014: ElbowR 1
+    3300016: Eye_Box
+    3300018: Eye_Box_Glass
+    3300020: FingerR
+    3300022: FingerR 1
+    3300024: GlassCap
+    3300026: Hover_Glowy_Bits
+    3300028: LowerArmR
+    3300030: LowerArmR 1
+    3300032: Robo_Bib
+    3300034: Robot_Eye
+    3300036: Shoulder_Cuffs
+    3300038: ThumbR
+    3300040: ThumbR 1
+    3300042: UpperArmL
+    3300044: UpperArmR
+    3300046: WristR
+    3300048: WristR 1
+    4300000: Brain_Box
+    4300002: Antenna
+    4300004: Antenna_Tip
+    4300006: Brain_Box_Topper
+    4300008: Eye_Box
+    4300010: Robot_Eye
+    4300012: Eye_Box_Glass
+    4300014: Drone_Body
+    4300016: Bowtie
+    4300018: Shoulder_Cuffs
+    4300020: Robo_Bib
+    4300022: Hover_Glowy_Bits
+    4300024: GlassCap
+    4300026: UpperArmR
+    4300028: ElbowR
+    4300030: LowerArmR
+    4300032: WristR
+    4300034: ThumbR
+    4300036: FingerR
+    4300038: UpperArmL
+    4300040: ElbowR
+    4300042: LowerArmR
+    4300044: WristR
+    4300046: ThumbR
+    4300048: FingerR
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 60
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: UpperArmL
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ElbowR
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArmR
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FingerR
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbR
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WristR
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Drone (2)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Brain_Box
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0.048147745, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.25, y: 1.25, z: 1.25}
+    - name: Antenna
+      parentName: Brain_Box
+      position: {x: -0.0036000002, y: 0.0015022563, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Antenna_Tip
+      parentName: Antenna
+      position: {x: -0, y: 0.00465, z: 0}
+      rotation: {x: 0, y: 0, z: -0.38268346, w: 0.92387956}
+      scale: {x: 0.05, y: 0.05, z: 0.05}
+    - name: Brain_Box_Topper
+      parentName: Brain_Box
+      position: {x: 0.0011999999, y: 0.0015022563, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9, y: 1, z: 0.5}
+    - name: Couch:place3dTexture1
+      parentName: Drone (2)(Clone)
+      position: {x: 0.054110114, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.58307546, y: 1, z: 1}
+    - name: Couch:place3dTexture2
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Deployable_Turret_Barrel:place3dTexture1
+      parentName: Drone (2)(Clone)
+      position: {x: 0.054110114, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.58307546, y: 1, z: 1}
+    - name: Deployable_Turret_Barrel:place3dTexture2
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Drone_Body
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0.024903543, z: -0.0018750005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bowtie
+      parentName: Drone_Body
+      position: {x: -0, y: -0.002403542, z: 0.012375}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robo_Bib
+      parentName: Drone_Body
+      position: {x: -0, y: -0.0067275283, z: 0.011700971}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_Cuffs
+      parentName: Drone_Body
+      position: {x: -0, y: 0.0017964583, z: 0.0018750005}
+      rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 4, y: 1, z: 1.5}
+    - name: Eye_Box
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0.03375, z: 0.009823738}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1.2442372, y: 1, z: 0.6221186}
+    - name: Eye_Box_Glass
+      parentName: Eye_Box
+      position: {x: -0, y: 0.0011982627, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9433641, y: 1, z: 0.91572875}
+    - name: Robot_Eye
+      parentName: Eye_Box
+      position: {x: -0, y: 0.0006762626, z: -0.00029999999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 2}
+    - name: GlassCap
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0.05970001, z: 0.00105}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.80548847, y: 1.2, z: 1}
+    - name: bend3Handle
+      parentName: GlassCap
+      position: {x: -0, y: 4.4703483e-10, z: 0}
+      rotation: {x: 0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hover_Glowy_Bits
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: -0.015309698, z: 0.00105}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.5242865, y: -0.61084527, z: 1}
+    - name: bend3Handle 1
+      parentName: Hover_Glowy_Bits
+      position: {x: -0, y: 4.4703483e-10, z: 0}
+      rotation: {x: 0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hover_Swivel_Chair:place3dTexture1
+      parentName: Drone (2)(Clone)
+      position: {x: 0.054110114, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.58307546, y: 1, z: 1}
+    - name: Hover_Swivel_Chair:place3dTexture2
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hover_Swivel_Chair:Swivel_Chair:place3dTexture1
+      parentName: Drone (2)(Clone)
+      position: {x: 0.054110114, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.58307546, y: 1, z: 1}
+    - name: Hover_Swivel_Chair:Swivel_Chair:place3dTexture2
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Loopy_Couch:place3dTexture1
+      parentName: Drone (2)(Clone)
+      position: {x: 0.054110114, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.58307546, y: 1, z: 1}
+    - name: Loopy_Couch:place3dTexture2
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: place3dTexture1
+      parentName: Drone (2)(Clone)
+      position: {x: 0.054110114, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.58307546, y: 1, z: 1}
+    - name: place3dTexture2
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Terminal:place3dTexture1
+      parentName: Drone (2)(Clone)
+      position: {x: 0.054110114, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.58307546, y: 1, z: 1}
+    - name: Terminal:place3dTexture2
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperArmL
+      parentName: Drone (2)(Clone)
+      position: {x: -0.028500004, y: 0.028500004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: bend1Handle
+      parentName: UpperArmL
+      position: {x: 8.381903e-11, y: -0.0025876884, z: -1.11758706e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.65, y: 0.65, z: 0.65}
+    - name: ElbowR
+      parentName: UpperArmL
+      position: {x: -0.00024000002, y: -0.0195, z: 0}
+      rotation: {x: 0.98324734, y: -0.00049503724, z: 0, w: 0.1822756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerArmR
+      parentName: ElbowR
+      position: {x: -0.000006637533, y: -0.013185383, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WristR
+      parentName: LowerArmR
+      position: {x: 0.000006637533, y: -0.013064617, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerR
+      parentName: WristR
+      position: {x: 0.0017400001, y: -0.0035833165, z: 0}
+      rotation: {x: -0.043619387, y: 0.99904823, z: 6.117406e-17, w: -2.6709172e-18}
+      scale: {x: 1, y: 1, z: -1.1382793}
+    - name: ThumbR
+      parentName: WristR
+      position: {x: -0.00201, y: -0.0035833165, z: 0}
+      rotation: {x: 0, y: 0, z: -0.043619387, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperArmR
+      parentName: Drone (2)(Clone)
+      position: {x: 0.028500004, y: 0.028500004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bend1Handle 1
+      parentName: UpperArmR
+      position: {x: 8.381903e-11, y: -0.0025876884, z: -1.11758706e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.65, y: 0.65, z: 0.65}
+    - name: ElbowR 1
+      parentName: UpperArmR
+      position: {x: -0.00024000002, y: -0.0195, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerArmR 1
+      parentName: ElbowR 1
+      position: {x: -0.000006637533, y: -0.013185383, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WristR 1
+      parentName: LowerArmR 1
+      position: {x: 0.000006637533, y: -0.013064617, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerR 1
+      parentName: WristR 1
+      position: {x: 0.0017400001, y: -0.0035833165, z: 0}
+      rotation: {x: -0.043619387, y: 0.99904823, z: 6.117406e-17, w: -2.6709172e-18}
+      scale: {x: 1, y: 1, z: -1.1382793}
+    - name: ThumbR 1
+      parentName: WristR 1
+      position: {x: -0.00201, y: -0.0035833165, z: 0}
+      rotation: {x: 0, y: 0, z: -0.043619387, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Vase:place3dTexture1
+      parentName: Drone (2)(Clone)
+      position: {x: 0.054110114, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.58307546, y: 1, z: 1}
+    - name: Vase:place3dTexture2
+      parentName: Drone (2)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

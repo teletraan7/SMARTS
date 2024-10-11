@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 06420157f205b954380b37ff61976aa0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Couch:place3dTexture1
+    100002: Couch:place3dTexture2
+    100004: Deployable_Turret_Barrel:place3dTexture1
+    100006: Deployable_Turret_Barrel:place3dTexture2
+    100008: Dispenser
+    100010: Dispenser_Door_L
+    100012: Dispenser_Door_R
+    100014: Dispenser_Exit
+    100016: Dispenser_Exit2
+    100018: //RootNode
+    100020: Hover_Swivel_Chair:place3dTexture1
+    100022: Hover_Swivel_Chair:place3dTexture2
+    100024: Hover_Swivel_Chair:Swivel_Chair:place3dTexture1
+    100026: Hover_Swivel_Chair:Swivel_Chair:place3dTexture2
+    100028: Light_Bar_L
+    100030: Light_Bar_R
+    100032: Light_Bar_Top
+    100034: Light_Cap_L
+    100036: Light_Cap_R
+    100038: Light_Cap_Top
+    100040: Loopy_Couch:place3dTexture1
+    100042: Loopy_Couch:place3dTexture2
+    100044: pCylinder3
+    100046: pCylinder4
+    100048: place3dTexture1
+    100050: place3dTexture2
+    100052: Terminal:place3dTexture1
+    100054: Terminal:place3dTexture2
+    100056: transform1
+    100058: transform2
+    100060: transform3
+    100062: Vase:place3dTexture1
+    100064: Vase:place3dTexture2
+    400000: Couch:place3dTexture1
+    400002: Couch:place3dTexture2
+    400004: Deployable_Turret_Barrel:place3dTexture1
+    400006: Deployable_Turret_Barrel:place3dTexture2
+    400008: Dispenser
+    400010: Dispenser_Door_L
+    400012: Dispenser_Door_R
+    400014: Dispenser_Exit
+    400016: Dispenser_Exit2
+    400018: //RootNode
+    400020: Hover_Swivel_Chair:place3dTexture1
+    400022: Hover_Swivel_Chair:place3dTexture2
+    400024: Hover_Swivel_Chair:Swivel_Chair:place3dTexture1
+    400026: Hover_Swivel_Chair:Swivel_Chair:place3dTexture2
+    400028: Light_Bar_L
+    400030: Light_Bar_R
+    400032: Light_Bar_Top
+    400034: Light_Cap_L
+    400036: Light_Cap_R
+    400038: Light_Cap_Top
+    400040: Loopy_Couch:place3dTexture1
+    400042: Loopy_Couch:place3dTexture2
+    400044: pCylinder3
+    400046: pCylinder4
+    400048: place3dTexture1
+    400050: place3dTexture2
+    400052: Terminal:place3dTexture1
+    400054: Terminal:place3dTexture2
+    400056: transform1
+    400058: transform2
+    400060: transform3
+    400062: Vase:place3dTexture1
+    400064: Vase:place3dTexture2
+    2100000: lambert1
+    2300000: Dispenser
+    2300002: Dispenser_Door_L
+    2300004: Dispenser_Door_R
+    2300006: Dispenser_Exit2
+    2300008: Light_Bar_L
+    2300010: Light_Bar_R
+    2300012: Light_Bar_Top
+    2300014: Light_Cap_L
+    2300016: Light_Cap_R
+    2300018: Light_Cap_Top
+    3300000: Dispenser
+    3300002: Dispenser_Door_L
+    3300004: Dispenser_Door_R
+    3300006: Dispenser_Exit2
+    3300008: Light_Bar_L
+    3300010: Light_Bar_R
+    3300012: Light_Bar_Top
+    3300014: Light_Cap_L
+    3300016: Light_Cap_R
+    3300018: Light_Cap_Top
+    4300000: Dispenser
+    4300002: Dispenser_Exit2
+    4300004: Light_Cap_R
+    4300006: Light_Cap_L
+    4300008: Light_Cap_Top
+    4300010: Light_Bar_R
+    4300012: Light_Bar_L
+    4300014: Light_Bar_Top
+    4300016: Dispenser_Door_R
+    4300018: Dispenser_Door_L
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 60
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

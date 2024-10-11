@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 441317cc51cdd6c448d897eb10fc5f4d
+timeCreated: 1522247844
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm_Rest_Cushion_L
+    100002: Arm_Rest_Cushion_R
+    100004: bend1Handle
+    100006: bend1Handle 1
+    100008: Bottom_Cushion
+    100010: Couch
+    100012: Couch_Base
+    100014: //RootNode
+    100016: Lower_Back_Cushion
+    100018: pCube2
+    100020: pCube3
+    100022: pCube4
+    100024: pCylinder1
+    100026: Pipe_Rail_L
+    100028: Pipe_Rail_R
+    100030: place3dTexture1
+    100032: place3dTexture2
+    100034: pSphere1
+    100036: pSphere2
+    100038: pSphere3
+    100040: pSphere4
+    100042: pSphere5
+    100044: pSphere6
+    100046: pSphere7
+    100048: pSphere8
+    100050: pSphere9
+    100052: transform1
+    100054: transform10
+    100056: transform11
+    100058: transform12
+    100060: transform13
+    100062: transform2
+    100064: transform3
+    100066: transform4
+    100068: transform5
+    100070: transform6
+    100072: transform7
+    100074: transform8
+    100076: transform9
+    100078: Upper_Back_Cushion
+    400000: Arm_Rest_Cushion_L
+    400002: Arm_Rest_Cushion_R
+    400004: bend1Handle
+    400006: bend1Handle 1
+    400008: Bottom_Cushion
+    400010: Couch
+    400012: Couch_Base
+    400014: //RootNode
+    400016: Lower_Back_Cushion
+    400018: pCube2
+    400020: pCube3
+    400022: pCube4
+    400024: pCylinder1
+    400026: Pipe_Rail_L
+    400028: Pipe_Rail_R
+    400030: place3dTexture1
+    400032: place3dTexture2
+    400034: pSphere1
+    400036: pSphere2
+    400038: pSphere3
+    400040: pSphere4
+    400042: pSphere5
+    400044: pSphere6
+    400046: pSphere7
+    400048: pSphere8
+    400050: pSphere9
+    400052: transform1
+    400054: transform10
+    400056: transform11
+    400058: transform12
+    400060: transform13
+    400062: transform2
+    400064: transform3
+    400066: transform4
+    400068: transform5
+    400070: transform6
+    400072: transform7
+    400074: transform8
+    400076: transform9
+    400078: Upper_Back_Cushion
+    2100000: lambert1
+    2300000: Arm_Rest_Cushion_L
+    2300002: Arm_Rest_Cushion_R
+    2300004: Bottom_Cushion
+    2300006: Couch
+    2300008: Couch_Base
+    2300010: Lower_Back_Cushion
+    2300012: Pipe_Rail_L
+    2300014: Pipe_Rail_R
+    2300016: Upper_Back_Cushion
+    3300000: Arm_Rest_Cushion_L
+    3300002: Arm_Rest_Cushion_R
+    3300004: Bottom_Cushion
+    3300006: Couch
+    3300008: Couch_Base
+    3300010: Lower_Back_Cushion
+    3300012: Pipe_Rail_L
+    3300014: Pipe_Rail_R
+    3300016: Upper_Back_Cushion
+    4300000: Couch
+    4300002: Couch_Base
+    4300004: Pipe_Rail_R
+    4300006: Pipe_Rail_L
+    4300008: Arm_Rest_Cushion_R
+    4300010: Arm_Rest_Cushion_L
+    4300012: Upper_Back_Cushion
+    4300014: Lower_Back_Cushion
+    4300016: Bottom_Cushion
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 45
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bc840cf44797dd941a59a7c6d535a836
+timeCreated: 1538246592
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - EndUI: {instanceID: 0}
+  - EyeCanvas: {instanceID: 0}
+  - ActiveCanvas: {instanceID: 0}
+  - PayText: {instanceID: 0}
+  - ToggleOn: {instanceID: 0}
+  - ToggleOff: {instanceID: 0}
+  - Select: {instanceID: 0}
+  - Click: {instanceID: 0}
+  - GameManger: {instanceID: 0}
+  - PlayAgainButton: {instanceID: 0}
+  - ScoreUp: {fileID: 8300000, guid: 927eb64c47fb5f942ab4edbf55b64f2c, type: 3}
+  - ScoreDown: {fileID: 8300000, guid: 6db8184a0fe79354b908fb36f04a193c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
